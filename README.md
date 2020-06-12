@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+title: "A Website all About Diya!"
+description: "Personal Wesbite about Diya Chengappa"
 
-You can use the [editor on GitHub](https://github.com/DiyaChengappa3/PersonalWebsite-Comp-Sci/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Background Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"I am a junior at East Brunswick High School, and I have been living here for my whole life with my parents."
 
-### Markdown
+## Social Media
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Accomplishments
+1. Almost done with High School
+2. Scored over a 750 on my math SAT section
+3. idk yet
 
-```markdown
-Syntax highlighted code block
+theme: jekyll-theme-cayman
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiyaChengappa3/PersonalWebsite-Comp-Sci/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
